@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -26,18 +26,18 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1-aOR1swPXz8wTC85XJ1M28jaJAvoJmPA/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/Ketan-Pal/PortfolioV2",
   githubProfile: "https://github.com/Ketan-Pal",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // github: "https://github.com/Ketan1919",
+  // linkedin: "https://www.linkedin.com/in/Ketan-hathidara-88710b138/",
+  // gmail: "Ketanhathidara98@gmail.com",
+  // gitlab: "https://gitlab.com/Ketanhathidara98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
+  // twitter: "https://twitter.com/Ketan_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
 
   {
@@ -66,7 +66,7 @@ const socialMediaLinks = [
   },
   // {
   //   name: "X-Twitter",
-  //   link: "https://twitter.com/ashutosh_1919",
+  //   link: "https://twitter.com/Ketan_1919",
   //   fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
   //   backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   // },
@@ -178,7 +178,7 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "devicon:nodejs",
           style: {
             color: "#339933",
           },
@@ -198,15 +198,15 @@ const skills = {
           },
         },
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
+          skillName: "SQL",
+          fontAwesomeClassname: "devicon:mysql",
           style: {
             color: "#663399",
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "Java",
+          fontAwesomeClassname: "devicon:java",
           style: {
             color: "#02569B",
           },
@@ -239,7 +239,7 @@ const skills = {
         },
         {
           skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazurenpm run",
+          fontAwesomeClassname: "simple-icons:microsoftazure",
           style: {
             color: "#0089D6",
           },
@@ -348,7 +348,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.codechef.com/users/Ketan_1919",
     },
     {
       siteName: "Codeforces",
@@ -364,7 +364,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.hackerearth.com/@Ketan391",
     },
     {
       siteName: "Kaggle",
@@ -743,7 +743,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://www.ketanpal.tech/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
