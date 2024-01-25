@@ -32,7 +32,7 @@ const greeting = {
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/Ketan1919",
+  // github: "https://github.com/Ketan-Pal",
   // linkedin: "https://www.linkedin.com/in/Ketan-hathidara-88710b138/",
   // gmail: "Ketanhathidara98@gmail.com",
   // gitlab: "https://gitlab.com/Ketanhathidara98",
@@ -728,15 +728,14 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
+    subtitle: "Mandhana, Kanpur, Uttar Pradesh - 209217",
+    locality: "Mandhana",
     country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    region: "Uttar Pradesh",
+    postalCode: "209217",
+    streetAddress: "Mandhana",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/46EsJRDaZfMdrycg6",
   },
   phoneSection: {
     title: "",
